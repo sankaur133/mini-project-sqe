@@ -2,7 +2,8 @@
 For this mini-project you will need to complete 2 steps. This project will assess your written communication skills,
 ability to generate test plans for both manual and automated tests, and create automated tests for a simple API.
 
-_**Please fork this repository and send us the Github link when you are finished**_
+_**Please fork this repository and send us the Github link when you are finished. Be prepared to present your plans to
+a small team.**_
 
 ## The Application
 This project is to test a simple notepad application. The only working part of the application is the API. The application
