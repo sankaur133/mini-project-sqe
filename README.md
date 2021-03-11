@@ -76,7 +76,7 @@ of how something like this might be implemented. In this design the database emi
 event, and a Lambda function listens for those changes. If a schedule has been set
 then the handler will schedule an email to be sent to the user when the scheduled time passes.
 
-Again, not automation is necsarry for this, but you may include it in your test plans.
+Again, no automation is necsarry for this, but you may include it in your test plans.
 
 # The Project
 What we would like are the following items created by you:
